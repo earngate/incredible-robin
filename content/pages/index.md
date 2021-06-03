@@ -28,7 +28,9 @@ seo:
       value: مراجعة شركات استضافة المواقع
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: >-
+        مراجعة وتقييم مواقع الاستضافة الأجنبيه و كوبونات تخفيض عند شراء استضافة
+        ودومين وشروحات بالصور كيف تحجز افضل وارخص استضافة
       keyName: property
     - name: 'og:image'
       value: images/ampersand-preview.png
