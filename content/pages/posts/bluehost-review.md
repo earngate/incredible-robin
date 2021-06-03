@@ -44,7 +44,13 @@ seo:
       value: images/10.jpg
       relativeUrl: true
 layout: post
-subtitle: ddd
+subtitle: >-
+  شركة استضافة بلوهوست استضافة المواقع هي واحدة من أفضل مواقع الاستضافة الأجنبية
+  التي تتمتع بسمعة كبيرة عند العديد من مالكي المواقع العربية التي يمكنك من
+  خلالها إنشاء مدونة WordPress وهي واحدة من شركات الاستضافة التي تقدم أرخص
+  استضافة المواقع وتدعم أول لوحة تحكم حول العالم، cPanel تقدم جميع استضافة
+  المواقع الأكثر شعبية ويدعم لوحة التحكم الأولى في العالم. أنواع الاستضافة من
+  الاستضافة المشتركة إلى الاستضافة المتخصصة
 ---
 
 Apparently, Japan is covered in magical and irresistibly cute animal sanctuaries. **The Shrines of Ise** have been celebrated as the prototype of Japanese architecture. Largely of wood, traditional housing and many temple buildings see the use of tatami mats and sliding doors that break down the distinction between rooms and indoor and outdoor space.
