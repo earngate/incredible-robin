@@ -33,7 +33,7 @@ seo:
         ودومين وشروحات بالصور كيف تحجز افضل وارخص استضافة
       keyName: property
     - name: 'og:image'
-      value: images/ampersand-preview.png
+      value: /_static/app-assets/images/unique-tiger.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
