@@ -11,7 +11,7 @@ thumb_img_path: /images/image2.png
 thumb_img_alt: استضافة بلو هوست
 content_img_alt: استضافة bluehost
 seo:
-  title: Fox Village In Japan
+  title: مميزات وعيوب استضافة بلوهوست BlueHost
   description: >-
     Apparently, Japan is covered in magical and irresistibly cute animal
     sanctuaries.
