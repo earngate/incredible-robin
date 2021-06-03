@@ -25,7 +25,7 @@ seo:
       value: ' مراجعة شركة استضافة بلوهوست استضافة المواقع هي واحدة من أفضل مواقع الاستضافة الأجنبية التي يمكنك من خلالها إنشاء مدونة ووردبريس.'
       keyName: property
     - name: 'og:image'
-      value: images/10.jpg
+      value: /_static/app-assets/images/successful-mango.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
