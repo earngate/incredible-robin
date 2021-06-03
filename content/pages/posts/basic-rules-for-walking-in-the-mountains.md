@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Basic Rules For Walking In The Mountains
+      value: افضل استضافة مواقع 2021
       keyName: property
     - name: 'og:description'
       value: ' قائمة من أفضل 10 مواقع استضافة أجنبية وموثوق بها وخدمة مئات الآلاف من العملاء، وبعضها لديه الملايين من العملاء في جميع أنحاء العالم. تتميز هذه شركات الاستضافة أيضًا بدعم فني ممتاز وأهم ميزة هي إعادة الأموال في حال لم تكن راضيًا عن شركة الاستضافة'
