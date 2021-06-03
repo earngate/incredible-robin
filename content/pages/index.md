@@ -17,7 +17,9 @@ has_more_link: true
 more_link_text: شاهد المزيد
 seo:
   title: مراجعة شركات استضافة المواقع
-  description: The preview of the Ampersand theme
+  description: >-
+    مراجعة وتقييم مواقع الاستضافة الأجنبيه و كوبونات تخفيض عند شراء استضافة
+    ودومين وشروحات بالصور كيف تحجز افضل وارخص استضافة
   extra:
     - name: 'og:type'
       value: website
