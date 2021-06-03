@@ -7,9 +7,9 @@ excerpt: >-
   عن شركة الاستضافة، وهذا أكبر ضمان لك قبل الحجز
 date: '2019-04-09'
 thumb_img_path: /images/image5.png
-thumb_img_alt: A man standing on a rock cliff overlooking river
+thumb_img_alt: استضافة مواقع
 content_img_path: /images/image5.png
-content_img_alt: A man standing on a rock cliff overlooking river
+content_img_alt: افضل استضافة
 seo:
   title: Basic Rules For Walking In The Mountains
   description: >-
@@ -20,12 +20,11 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Basic Rules For Walking In The Mountains
+      value: 2021 افضل 10 شركات استضافة مواقع
       keyName: property
     - name: 'og:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+         قائمة من أفضل 10 مواقع استضافة أجنبية وموثوق بها وخدمة مئات الآلاف من العملاء، وبعضها لديه الملايين من العملاء في جميع أنحاء العالم.
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -37,8 +36,7 @@ seo:
       value: Basic Rules For Walking In The Mountains
     - name: 'twitter:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+         قائمة من أفضل 10 مواقع استضافة أجنبية وموثوق بها وخدمة مئات الآلاف من العملاء، وبعضها لديه الملايين من العملاء في جميع أنحاء العالم.
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
