@@ -1,9 +1,10 @@
 ---
 title: 2021‎ افضل 10 شركات استضافة مواقع
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  نقدم لك قائمة من أفضل 10 مواقع استضافة أجنبية وموثوق بها وخدمة مئات الآلاف من
+  العملاء، وبعضها لديه الملايين من العملاء في جميع أنحاء العالم. تتميز هذه
+  الإقامة أيضًا بدعم فني ممتاز وأهم ميزة هي إعادة الأموال في حال لم تكن راضيًا
+  عن شركة الاستضافة، وهذا أكبر ضمان لك قبل الحجز
 date: '2019-04-09'
 thumb_img_path: /images/image5.png
 thumb_img_alt: A man standing on a rock cliff overlooking river
