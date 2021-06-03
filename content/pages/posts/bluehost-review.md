@@ -9,7 +9,7 @@ excerpt: >-
 date: '2018-01-11'
 thumb_img_path: /images/image2.png
 thumb_img_alt: استضافة بلو هوست
-content_img_alt: A red fox sitting on a meadow
+content_img_alt: استضافة bluehost
 seo:
   title: Fox Village In Japan
   description: >-
