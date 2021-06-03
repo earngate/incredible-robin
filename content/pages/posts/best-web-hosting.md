@@ -149,7 +149,7 @@ Host Gator هي واحدة من شركات الاستضافة التي تقدم 
 
 ### **مميزات خطط استضافة A2Hosting**
 
-*   دعم خاصية SSL Certificate
+*   دعم خاصية SSL Certificate 
 
 *   دعم [لوحة التحكم سي بانل](https://www.webhostbank.com/ar/cpanel-webhosting-sites/) باللغه العربيه
 
