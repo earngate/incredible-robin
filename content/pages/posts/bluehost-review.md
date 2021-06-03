@@ -12,9 +12,8 @@ thumb_img_alt: استضافة بلو هوست
 content_img_alt: استضافة bluehost
 seo:
   title: مميزات وعيوب استضافة بلوهوست BlueHost
-  description: >-
-    Apparently, Japan is covered in magical and irresistibly cute animal
-    sanctuaries.
+  description: |2
+     مراجعة شركة استضافة بلوهوست استضافة المواقع هي واحدة من أفضل مواقع الاستضافة الأجنبية التي يمكنك من خلالها إنشاء مدونة ووردبريس.
   extra:
     - name: 'og:type'
       value: article
