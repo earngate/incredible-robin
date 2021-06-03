@@ -23,9 +23,7 @@ seo:
       value: مميزات وعيوب استضافة بلوهوست BlueHost
       keyName: property
     - name: 'og:description'
-      value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+      value: ' مراجعة شركة استضافة بلوهوست استضافة المواقع هي واحدة من أفضل مواقع الاستضافة الأجنبية التي يمكنك من خلالها إنشاء مدونة ووردبريس.'
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
