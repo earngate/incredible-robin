@@ -11,7 +11,7 @@ thumb_img_alt: A man standing on a rock cliff overlooking river
 content_img_path: /images/image5.png
 content_img_alt: A man standing on a rock cliff overlooking river
 seo:
-  title: Basic Rules For Walking In The Mountains
+  title: 2021‎ افضل 10 شركات استضافة مواقع
   description: >-
     Hiking refers to difficult walking through dense forest, undergrowth, or
     bushes.
