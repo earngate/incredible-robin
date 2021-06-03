@@ -26,7 +26,7 @@ seo:
         bushes.
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: /_static/app-assets/images/scientific-saturn.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
