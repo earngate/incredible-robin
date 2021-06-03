@@ -21,9 +21,7 @@ seo:
       value: Basic Rules For Walking In The Mountains
       keyName: property
     - name: 'og:description'
-      value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+      value: ' قائمة من أفضل 10 مواقع استضافة أجنبية وموثوق بها وخدمة مئات الآلاف من العملاء، وبعضها لديه الملايين من العملاء في جميع أنحاء العالم. تتميز هذه شركات الاستضافة أيضًا بدعم فني ممتاز وأهم ميزة هي إعادة الأموال في حال لم تكن راضيًا عن شركة الاستضافة'
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/scientific-saturn.png
