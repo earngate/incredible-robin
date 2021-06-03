@@ -1,17 +1,13 @@
 ---
 title: مميزات وعيوب استضافة بلوهوست BlueHost
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+ مراجعة شركة استضافة بلوهوست استضافة المواقع هي واحدة من أفضل مواقع الاستضافة الأجنبية التي يمكنك من خلالها إنشاء مدونة WordPress.
 date: '2018-01-11'
 thumb_img_path: images/10.jpg
-thumb_img_alt: A red fox sitting on a meadow
-content_img_alt: A red fox sitting on a meadow
+thumb_img_alt:استضافة بلوهوست
+content_img_alt: استضافة بلوهوست
 seo:
-  title: Fox Village In Japan
+  title: مميزات وعيوب استضافة بلوهوست BlueHost
   description: >-
     Apparently, Japan is covered in magical and irresistibly cute animal
     sanctuaries.
@@ -20,12 +16,11 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Fox Village In Japan
+      value: مميزات وعيوب استضافة بلوهوست BlueHost
       keyName: property
     - name: 'og:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+       مراجعة شركة استضافة بلوهوست استضافة المواقع هي واحدة من أفضل مواقع الاستضافة الأجنبية التي يمكنك من خلالها إنشاء مدونة WordPress.
       keyName: property
     - name: 'og:image'
       value: images/10.jpg
@@ -34,11 +29,10 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Fox Village In Japan
+      value: مميزات وعيوب استضافة بلوهوست BlueHost
     - name: 'twitter:description'
       value: >-
-        Apparently, Japan is covered in magical and irresistibly cute animal
-        sanctuaries.
+       مراجعة شركة استضافة بلوهوست استضافة المواقع هي واحدة من أفضل مواقع الاستضافة الأجنبية التي يمكنك من خلالها إنشاء مدونة WordPress.
     - name: 'twitter:image'
       value: images/10.jpg
       relativeUrl: true
