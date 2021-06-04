@@ -2,31 +2,24 @@
 title: Home
 has_intro: true
 intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+ <span data-slate-leaf="true" data-slate-node="text"><span data-slate-string="true">من أهم خطوات</span> </span>[<span data-slate-leaf="true" data-slate-node="text"><span data-slate-string="true">انشاء موقع</span></span>](https://afdlhost.com/how-to-start-a-wordpress-blog-guide/)<span data-slate-leaf="true" data-slate-node="text"> <span data-slate-string="true">هو الاعتماد على استضافة مواقع قوية وحجز اسم الموقع والتصميم المناسب للموقع والرسالة التى يقوم بإرسالها ويظل أهم خطوه هو اختيار</span> </span>[<span data-slate-leaf="true" data-slate-node="text"><span data-slate-string="true">افضل استضافة</span></span>](https://afdlhost.com/best-hosting/)<span data-slate-leaf="true" data-slate-node="text" data-slate-fragment="JTVCJTdCJTIydHlwZSUyMiUzQSUyMnAlMjIlMkMlMjJjaGlsZHJlbiUyMiUzQSU1QiU3QiUyMnRleHQlMjIlM0ElMjIlRDklODUlRDklODYlMjAlRDglQTMlRDklODclRDklODUlMjAlRDglQUUlRDglQjclRDklODglRDglQTclRDglQUElMjAlMjIlN0QlMkMlN0IlMjJ0eXBlJTIyJTNBJTIyYSUyMiUyQyUyMmNoaWxkcmVuJTIyJTNBJTVCJTdCJTIydGV4dCUyMiUzQSUyMiVEOCVBNyVEOSU4NiVEOCVCNCVEOCVBNyVEOCVBMSUyMCVEOSU4NSVEOSU4OCVEOSU4MiVEOCVCOSUyMiU3RCU1RCUyQyUyMnVybCUyMiUzQSUyMmh0dHBzJTNBJTJGJTJGYWZkbGhvc3QuY29tJTJGaG93LXRvLXN0YXJ0LWEtd29yZHByZXNzLWJsb2ctZ3VpZGUlMkYlMjIlMkMlMjJ0aXRsZSUyMiUzQW51bGwlN0QlMkMlN0IlMjJ0ZXh0JTIyJTNBJTIyJTIwJUQ5JTg3JUQ5JTg4JTIwJUQ4JUE3JUQ5JTg0JUQ4JUE3JUQ4JUI5JUQ4JUFBJUQ5JTg1JUQ4JUE3JUQ4JUFGJTIwJUQ4JUI5JUQ5JTg0JUQ5JTg5JTIwJUQ4JUE3JUQ4JUIzJUQ4JUFBJUQ4JUI2JUQ4JUE3JUQ5JTgxJUQ4JUE5JTIwJUQ5JTg1JUQ5JTg4JUQ4JUE3JUQ5JTgyJUQ4JUI5JTIwJUQ5JTgyJUQ5JTg4JUQ5JThBJUQ4JUE5JTIwJUQ5JTg4JUQ4JUFEJUQ4JUFDJUQ4JUIyJTIwJUQ4JUE3JUQ4JUIzJUQ5JTg1JTIwJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JTg4JUQ5JTgyJUQ4JUI5JTIwJUQ5JTg4JUQ4JUE3JUQ5JTg0JUQ4JUFBJUQ4JUI1JUQ5JTg1JUQ5JThBJUQ5JTg1JTIwJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JTg2JUQ4JUE3JUQ4JUIzJUQ4JUE4JTIwJUQ5JTg0JUQ5JTg0JUQ5JTg1JUQ5JTg4JUQ5JTgyJUQ4JUI5JTIwJUQ5JTg4JUQ4JUE3JUQ5JTg0JUQ4JUIxJUQ4JUIzJUQ4JUE3JUQ5JTg0JUQ4JUE5JTIwJUQ4JUE3JUQ5JTg0JUQ4JUFBJUQ5JTg5JTIwJUQ5JThBJUQ5JTgyJUQ5JTg4JUQ5JTg1JTIwJUQ4JUE4JUQ4JUE1JUQ4JUIxJUQ4JUIzJUQ4JUE3JUQ5JTg0JUQ5JTg3JUQ4JUE3JTIwJUQ5JTg4JUQ5JThBJUQ4JUI4JUQ5JTg0JTIwJUQ4JUEzJUQ5JTg3JUQ5JTg1JTIwJUQ4JUFFJUQ4JUI3JUQ5JTg4JUQ5JTg3JTIwJUQ5JTg3JUQ5JTg4JTIwJUQ4JUE3JUQ4JUFFJUQ4JUFBJUQ5JThBJUQ4JUE3JUQ4JUIxJTIwJTIyJTdEJTJDJTdCJTIydHlwZSUyMiUzQSUyMmElMjIlMkMlMjJjaGlsZHJlbiUyMiUzQSU1QiU3QiUyMnRleHQlMjIlM0ElMjIlRDglQTclRDklODElRDglQjYlRDklODQlMjAlRDglQTclRDglQjMlRDglQUElRDglQjYlRDglQTclRDklODElRDglQTklMjIlN0QlNUQlMkMlMjJ1cmwlMjIlM0ElMjJodHRwcyUzQSUyRiUyRmFmZGxob3N0LmNvbSUyRmJlc3QtaG9zdGluZyUyRiUyMiUyQyUyMnRpdGxlJTIyJTNBbnVsbCU3RCUyQyU3QiUyMnRleHQlMjIlM0ElMjIlMjAlRDklODQlRDklODQlRDklODUlRDklODglRDklODIlRDglQjklMjAlRDklODQlRDglQTMlRDklODYlRDklODclRDglQTclMjAlRDklOEElRDglQUMlRDglQTglMjAlRDglQTclRDklODYlMjAlRDglQUElRDglQUElRDklODUlRDglQUElRDglQjklMjAlRDglQTglRDglQUYlRDglQjklRDklODUlMjAlRDklODElRDklODYlRDklODklMjAlRDklODUlRDklODUlRDklOEElRDglQjIlMjAlRDklODglRDglQjMlRDklOEElRDglQjElRDklODElRDglQjElRDglQTclRDglQUElMjAlRDglQjMlRDglQjElRDklOEElRDglQjklRDklODclMjAlRDklODglRDklODYlRDglQjMlRDglQTglRDglQTklMjAlRDglQUIlRDglQTglRDglQTclRDglQUElMjAlRDglQUElRDklODMlRDklODglRDklODYlMjAlRDglQjklRDglQTclRDklODQlRDklOEElRDglQTklMjAlRDglQUQlRDglQUElRDklODklMjAlRDklODQlRDglQTclMjAlRDglQUElRDklODElRDklODIlRDglQUYlMjAlRDglQUIlRDklODIlRDglQTklMjAlRDklODUlRDglQUQlRDglQjElRDklODMlRDglQTclRDglQUElMjAlRDglQTclRDklODQlRDglQTglRDglQUQlRDglQUIlMjAlRDklODglRDglQUElRDklODElRDklODIlRDglQUYlMjAlRDglQTclRDklODQlRDglQjIlRDklODglRDglQTclRDglQjElMjAlRDklODglRDglQTclRDklODQlRDglQjIlRDklOEElRDglQTclRDglQjElRDglQTclRDglQUElMjAlRDklODQlRDklODclRDglQjAlRDglQTclMjAlRDglQjMlRDklODYlRDklODglRDklODElRDglQjElMjAlRDklODQlRDklODMlMjAlRDklODElRDklODklMjAlRDklODclRDglQjAlMjAlRDglQTclRDklODQlRDglQUYlRDklODQlRDklOEElRDklODQlMjAlRDglQTclRDklODElRDglQjYlRDklODQlMjAlRDklODUlRDklODglRDglQTclRDklODIlRDglQjklMjAlRDglQTclRDklODQlRDglQTclRDglQjMlRDglQUElRDglQjYlRDglQTclRDklODElRDglQTklMjAlRDglQTglRDglQTclRDklODQlRDglQTclRDglQjYlRDglQTclRDklODElRDglQTklMjAlRDglQTclRDklODQlRDklODklMjAlRDklODMlRDklODglRDglQTglRDklODglRDklODYlRDglQTclRDglQUElMjAlRDglQUUlRDglQjUlRDklODUlMjAlRDglQTclRDglQjMlRDglQUElRDglQjYlRDglQTclRDklODElRDglQTklMjAlRDglQTclRDklODQlRDklODUlRDklODglRDglQTclRDklODIlRDglQjklMjAlRDklODglRDglQTclRDklODQlRDglQUElRDklODklMjAlRDglQUElRDklODIlRDglQUYlRDklODUlMjAlRDglQUYlRDklODglRDklODUlRDklOEElRDklODYlMjAlRDklODUlRDglQUMlRDglQTclRDklODYlRDklODklMjAlRDklODglRDglQjQlRDglQjElRDklODglRDglQUQlRDglQTclRDglQUElMjAlRDglQTglRDglQTclRDklODQlRDglQjUlRDklODglRDglQjElMjAlRDklODQlRDklODMlRDklOEElRDklODElRDklOEElRDglQTklMjAlRDglQTclRDklODQlRDglQUQlRDglQUMlRDglQjIlMjAlRDklODglRDglQTclRDklODQlRDglQTclRDglQjMlRDglQUElRDklODElRDglQTclRDglQUYlRDglQTklMjAlRDglQTglRDglQTclRDklODQlRDglQUUlRDglQjUlRDklODUuJTIyJTdEJTVEJTdEJTVE"> <span data-slate-string="true">للموقع لأنها يجب ان تتمتع بدعم فنى مميز وسيرفرات سريعه ونسبة ثبات تكون عالية حتى لا تفقد ثقة محركات البحث وتفقد الزوار والزيارات لهذا سنوفر لك فى هذ الدليل افضل مواقع الاستضافة بالاضافة الى كوبونات خصم استضافة المواقع والتى تقدم دومين مجانى وشروحات بالصور لكيفية الحجز والاستفادة بالخصم.</span></span>
 intro_actions:
-  - label: Learn More
-    url: /about
+  - label: ابدأ من هنا
+    url: /posts/best-web-hosting/
     style: primary
-  - label: Contact
-    url: /contact
-    style: secondary
-has_more_link: true
-more_link_text: شاهد المزيد
+ 
 seo:
-  title: Stackbit Ampersand Theme
-  description: The preview of the Ampersand theme
+  title: افضل استضافة مواقع
+  description: دليل افضل مواقع الاستضافة بالاضافة الى كوبونات خصم استضافة المواقع والتى تقدم دومين مجانى وشروحات بالصور لكيفية الحجز والاستفادة بالخصم.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Ampersand Theme
+      value: افضل استضافة مواقع
       keyName: property
     - name: 'og:description'
-      value: The preview of the Ampersand theme
+      value: دليل افضل مواقع الاستضافة بالاضافة الى كوبونات خصم استضافة المواقع والتى تقدم دومين مجانى وشروحات بالصور لكيفية الحجز والاستفادة بالخصم.
       keyName: property
     - name: 'og:image'
       value: images/ampersand-preview.png
@@ -35,9 +28,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Ampersand Theme
+      value: افضل استضافة مواقع
     - name: 'twitter:description'
-      value: The preview of the Ampersand theme
+      value: دليل افضل مواقع الاستضافة بالاضافة الى كوبونات خصم استضافة المواقع والتى تقدم دومين مجانى وشروحات بالصور لكيفية الحجز والاستفادة بالخصم.
     - name: 'twitter:image'
       value: images/ampersand-preview.png
       relativeUrl: true
