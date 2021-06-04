@@ -12,7 +12,7 @@ intro_content: >
   بالاضافة الى كوبونات خصم استضافة المواقع والتى تقدم دومين مجانى وشروحات بالصور
   لكيفية الحجز والاستفادة بالخصم.
 intro_actions:
-  - label: اب
+  - label: ابدأ من هنا
     url: /posts/best-web-hosting/
     style: primary
 has_more_link: true
