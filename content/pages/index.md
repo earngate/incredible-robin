@@ -12,7 +12,7 @@ intro_content: >
   بالاضافة الى كوبونات خصم استضافة المواقع والتى تقدم دومين مجانى وشروحات بالصور
   لكيفية الحجز والاستفادة بالخصم.
 intro_actions:
-  - label: Learn More
+  - label: المزيد
     url: /about
     style: primary
 has_more_link: true
