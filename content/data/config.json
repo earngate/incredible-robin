@@ -32,7 +32,7 @@
     },
     "footer": {
         "content": "&copy; استضافة مواقع . All rights reserved. content by <a href=\"https://afdlhost.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">استضافة مواقع</a>. وعرض  <a href=\"https://afdlhost.com/cheap-webhosting?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">ارخص استضافة</a>.",
-        "has_social": true,
+        "has_social": false,
         "social_links": [
             {
                 "label": "Twitter",
