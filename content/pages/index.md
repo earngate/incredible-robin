@@ -1,5 +1,5 @@
 ---
-title: Home
+title: الرئيسية
 has_intro: true
 intro_content: >
   من أهم خطوات [انشاء
