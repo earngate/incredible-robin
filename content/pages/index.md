@@ -13,7 +13,7 @@ intro_content: >
   لكيفية الحجز والاستفادة بالخصم.
 intro_actions:
   - label: المزيد
-    url: /about
+    url: /posts/best-web-hosting/
     style: primary
 has_more_link: true
 more_link_text: شاهد المزيد
