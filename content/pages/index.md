@@ -1,11 +1,16 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: >
+  من أهم خطوات [انشاء
+  موقع](https://afdlhost.com/how-to-start-a-wordpress-blog-guide/) هو الاعتماد
+  على استضافة مواقع قوية وحجز اسم الموقع والتصميم المناسب للموقع والرسالة التى
+  يقوم بإرسالها ويظل أهم خطوه هو اختيار [افضل
+  استضافة](https://afdlhost.com/best-hosting/) للموقع لأنها يجب ان تتمتع بدعم
+  فنى مميز وسيرفرات سريعه ونسبة ثبات تكون عالية حتى لا تفقد ثقة محركات البحث
+  وتفقد الزوار والزيارات لهذا سنوفر لك فى هذ الدليل افضل مواقع الاستضافة
+  بالاضافة الى كوبونات خصم استضافة المواقع والتى تقدم دومين مجانى وشروحات بالصور
+  لكيفية الحجز والاستفادة بالخصم.
 intro_actions:
   - label: Learn More
     url: /about
